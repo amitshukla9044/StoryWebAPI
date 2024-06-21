@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoAPPAPI", "DemoAPPAPI\DemoAPPAPI.csproj", "{690E164E-C091-40A5-82D9-19E668EE51CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPPAPI.Tests", "DemoAPPAPI.Tests\DemoAPPAPI.Tests.csproj", "{8AE1FB2B-F507-47B6-AF16-60F0485AE160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690E164E-C091-40A5-82D9-19E668EE51CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690E164E-C091-40A5-82D9-19E668EE51CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690E164E-C091-40A5-82D9-19E668EE51CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690E164E-C091-40A5-82D9-19E668EE51CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE1FB2B-F507-47B6-AF16-60F0485AE160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE1FB2B-F507-47B6-AF16-60F0485AE160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE1FB2B-F507-47B6-AF16-60F0485AE160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE1FB2B-F507-47B6-AF16-60F0485AE160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43D6FF13-966C-44E6-9F13-0BEA7F074F8B}
+	EndGlobalSection
+EndGlobal
